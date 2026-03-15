@@ -11,7 +11,7 @@
 - 🌱 Learning **React, Next.js, JavaScript, and Backend Development**
 - 🚀 Building projects to become **industry-ready for software roles**
 - 🤝 Exploring **Open Source Contribution**
-- 📫 Reach me at: **your-email@gmail.com** | **LinkedIn**
+
 
 ---
 
@@ -47,51 +47,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge)
 
----
-
-# 📚 Currently Learning
-
-- Advanced React Patterns
-- Backend Architecture
-- API Development
-- Open Source Collaboration
-- System Design Fundamentals
+-
 
 ---
 
-# 📌 Featured Projects
 
-### 🔹 Web Development Projects
-Collection of frontend projects built using **React, JavaScript, and modern UI frameworks**.
-
-### 🔹 Mechanical Keyboard Sound Extension
-A browser extension that simulates mechanical keyboard typing sounds.
-
-### 🔹 LED Pattern Controller (8051)
-Embedded systems project demonstrating microcontroller-based LED control patterns.
-
----
-
-# 📊 GitHub Stats
-
-![Asraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your-email@gmail.com
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-
----
-
-⭐ *Always learning, building, and improving.*
